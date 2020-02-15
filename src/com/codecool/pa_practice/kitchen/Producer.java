@@ -1,4 +1,4 @@
-package com.codecool.pa.kitchen;
+package com.codecool.pa_practice.kitchen;
 
 import java.util.Calendar;
 

@@ -1,8 +1,7 @@
-package com.codecool.pa.kitchen;
+package com.codecool.pa_practice.kitchen;
 
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.HashMap;
 import java.util.Random;
 
 class Kitchen {
